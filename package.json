@@ -1,0 +1,28 @@
+{
+  "name": "Angular2Learning",
+  "version": "1.0.0",
+  "description": "This is what we will use to learn Angular2",
+  "main": "index.js",
+  "dependencies": {
+    "angular2": "^2.0.0-beta.1",
+    "rxjs": "^5.0.0-beta.0",
+    "es6-promise": "^3.0.2",
+    "zone.js": "^0.5.10",
+    "reflect-metadata": "^0.1.2",
+    "es6-shim": "^0.33.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KreativeKoder/Angular2Learning.git"
+  },
+  "author": "Wayne Richmond",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KreativeKoder/Angular2Learning/issues"
+  },
+  "homepage": "https://github.com/KreativeKoder/Angular2Learning"
+}
